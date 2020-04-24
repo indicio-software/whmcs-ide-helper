@@ -1,0 +1,14 @@
+{
+    "name": "indicio-software/whmcs-ide-helper",
+    "description": "WHMCS IDE Helper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Gacek",
+            "email": "contact@dominikgacek.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
